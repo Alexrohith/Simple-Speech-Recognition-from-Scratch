@@ -136,6 +136,7 @@ librosa
 streamlit
 plotly
 matplotlib
+noisereduce
 ```
 
 ---
